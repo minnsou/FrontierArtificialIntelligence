@@ -1,1 +1,11 @@
 先端人工知能という授業での研究成果をおいておくレポジトリ
+
+mahjong.ipynb kerasを用いたあがり形の判定
+
+mahjong_pytorch.py pytorchを用いたあがり形の判定
+
+mahjong_utils.py 麻雀の手牌生成やあがり判定などの関数を置いておくpythonファイル
+
+data 学習に用いる手牌のデータ
+
+models 学習結果を保存するモデル
